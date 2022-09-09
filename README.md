@@ -1,4 +1,4 @@
-# Social meedia app with React, Styled-Components, Axios and Firebase
+# Social media app with React, Styled-Components, Axios and Firebase
 
 
 
